@@ -14,8 +14,9 @@ A real-time simulation of ants and ant eaters behavior, built with Node.js/Expre
 
 ## Live Demo
 
-🚀 **Frontend**: [https://your-frontend-app.onrender.com](https://your-frontend-app.onrender.com)
-🔧 **Backend API**: [https://your-backend-app.onrender.com](https://your-backend-app.onrender.com)
+🚀 **Frontend**: [https://your-frontend-app.onrender.com](https://your-frontend-app.onrender.com](https://solvingants.onrender.com )
+🔧 **Backend API**: [https://your-backend-app.onrender.com](https://your-backend-app.onrender.com](https://solvingants.onrender.com )
+
 
 ## Architecture
 
